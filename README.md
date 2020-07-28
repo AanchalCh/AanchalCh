@@ -1,28 +1,19 @@
-# Hey there 👋
+<h1 align="center">Hi 👋, I'm Aanchal Chaurasia</h1>
+<h2 align="center">I'm a UI/UX designer and Front-End Web Developer.</h2>
 
-<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>
 
-## My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
+- 🔭 I’m currently working on **improving my existing skills and going slow but steady.**
 
-- 🔭 I’m currently working on improving my existing skills and going slow but steady.
-- 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me: Contact me through <a href="https://www.linkedin.com/in/aanchal-chaurasia-201200191/">LinkedIn</a> here .
-- ⚡ Fun fact: I like to binge watch a lot of horror and dystopian future movies and tv series.
-</div>
+- 🌱 I’m currently learning **ReactJS**
 
-<!--
-**AanchalCh/AanchalCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **https://www.linkedin.com/in/aanchal-chaurasia-201200191/**
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **I like to binge watch a lot of horror and dystopian future movies and tv series.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aanchalch&show_icons=true" alt="aanchalch" /> </p>
 
-  
+<p align="center">
+<a href="https://linkedin.com/in/aanchal-chaurasia-201200191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aanchal-chaurasia-201200191/" height="20" width="20" /></a>
+<a href="https://instagram.com/aanchal_chaurasia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aanchal_chaurasia" height="20" width="20" /></a>
+</p>
