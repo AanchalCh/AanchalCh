@@ -1,7 +1,8 @@
 # Hey there 👋
 
-<div align="center">
-<img src="images/illustration.png" alt="banner">
+<div>
+
+![Alt text](images//illustration.png?raw=true "Title")
 
 ## My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
 
