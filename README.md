@@ -1,5 +1,9 @@
 # Hey there 👋
 
+<div align="center">
+<img src="./illustration.png" alt="banner">
+</div>
+
 <!--
 **AanchalCh/AanchalCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
