@@ -2,7 +2,7 @@
 
 <div>
 
-![Alt text](images//illustration.png?raw=true "Title")
+![Image](thisisme.png)
 
 ## My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
 
