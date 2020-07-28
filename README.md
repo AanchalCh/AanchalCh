@@ -1,7 +1,14 @@
 # Hey there 👋
 
 <div align="center">
-<img src="./illustration.png" alt="banner">
+<img src="images/illustration.png" alt="banner">
+
+## My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
+
+- 🔭 I’m currently working on improving my existing skills and going slow but steady.
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me: Contact me through <a href="https://www.linkedin.com/in/aanchal-chaurasia-201200191/">LinkedIn</a> here .
+- ⚡ Fun fact: I like to binge watch a lot of horror and dystopian future movies and tv series.
 </div>
 
 <!--
@@ -19,9 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
-
-- 🔭 I’m currently working on improving my existing skills and going slow but steady.
-- 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me: Contact me through <a href="https://www.linkedin.com/in/aanchal-chaurasia-201200191/">LinkedIn</a> here .
-- ⚡ Fun fact: I like to binge watch a lot of horror and dystopian future movies and tv series.
+  
