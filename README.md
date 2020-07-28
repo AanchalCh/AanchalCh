@@ -2,8 +2,6 @@
 
 <div>
 
-![Image](thisisme.png)
-
 ## My name is Aanchal Chaurasia. I'm a UI/UX designer and Front-End Web Developer.
 
 - 🔭 I’m currently working on improving my existing skills and going slow but steady.
