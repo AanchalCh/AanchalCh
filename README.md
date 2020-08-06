@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my existing skills and going slow but steady.**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **UX Design**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aanchal-chaurasia-201200191/**
 
