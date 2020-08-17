@@ -2,6 +2,7 @@
 <h2 align="center">I'm a UI/UX designer and Front-End Web Developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <p align="left">
 
@@ -12,7 +13,6 @@
 - 📫 How to reach me **Linked link below**
 
 - ⚡ Fun fact **I like to binge watch a lot of horror movies.**
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
 
 
