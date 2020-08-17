@@ -2,7 +2,7 @@
 <h2 align="center">I'm a UI/UX designer and Front-End Web Developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>
-<iframe align ="right" src="https://giphy.com/embed/3owyp2SViuDIGh8YoM" width="480" height="480" frameBorder="0" class="giphy-embed"></iframe>
+<img align ="right" src="https://giphy.com/embed/3owyp2SViuDIGh8YoM"/>
 
 <p align="left">
 
