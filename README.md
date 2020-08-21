@@ -25,5 +25,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/aanchal-chaurasia-201200191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aanchal-chaurasia-201200191/" height="20" width="20" /></a>
 <a href="https://instagram.com/aanchal_chaurasia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aanchal_chaurasia" height="20" width="20" /></a>
+  <a href="https://behance.net/aanchalch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="aanchal_chaurasia" height="20" width="20" /></a>
 <a href="https://dribbble.com/aanchalch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="aanchal_chaurasia" height="20" width="20" /></a>
 </p>
