@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aanchal Chaurasia</h1>
-<h2 align="center">I'm a UI/UX designer and Front-End Web Developer.</h2>
+<h2 align="center">I am a UX designer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
