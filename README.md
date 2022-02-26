@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **improving my existing skills.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS and NodeJS**
 
 - 📫 How to reach me **Linked link below**
 
