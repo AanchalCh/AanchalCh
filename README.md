@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aanchal Chaurasia</h1>
-<h2 align="center">I am a B.Tech. CSE 2022 grad looking for full-time SDE roles.</h2>
+<h2 align="center">I'm currently a software engineer at HSBC.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchalch" alt="aanchalch" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **improving my development skills.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **Linked link below**
 
