@@ -6,9 +6,9 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on **improving my development skills.**
+- 🔭 I’m currently working on **building enterprise level software.**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **Linked link below**
 
